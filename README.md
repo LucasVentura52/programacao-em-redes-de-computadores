@@ -1,4 +1,4 @@
-Desenvolvido com: | HTML & CSS | JavaScript | PHP |
+Desenvolvido com: | HTML & CSS | Bootstrap | JavaScript | PHP |
 
 Projeto de Programação via Sockets
 O intuito deste projeto é aplicar os conhecimentos conquistados durante a disciplina de Redes de Computadores à programação de uma aplicação cliente para se comunicar com um servidor via sockets, seguindo um protocolo customizado para o projeto em si.
