@@ -118,12 +118,6 @@ ASK SECRET 231 MINHASENHA RESPONSE 401
 
 Acima, o cliente pede pela palavra secreta utilizando a senha errada para o usuário 231, o servidor responde com 401 (não autorizado).
 
-Servidor
-O código do servidor está pronto e disponível para consulta dos alunos em https://gitlab.com/bmeneg/umfg-projects/-/tree/main/redes/sockets, sendo que durante o desenvolvimento do cliente as informações do servidor são:
-
-Endereço IP: 144.22.201.166
-Porta TCP: 9000
-
 É possível que o servidor não esteja operante na hora que for testar. Em caso de problemas ou dúvidas, por favor me avisem!
 
 Objetivo Final
