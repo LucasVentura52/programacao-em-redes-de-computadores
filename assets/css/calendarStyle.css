@@ -1,0 +1,16 @@
+#calendar {
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+.modal-body {
+    height: 70vh;
+}
+
+.fc {
+    height: 100%;
+}
+
+#clientesContainer {
+    display: none;
+}
